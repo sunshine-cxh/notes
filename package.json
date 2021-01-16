@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "@vuepress/plugin-register-components": "^1.8.0",
+    "vuepress": "^1.8.0"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "async-validator": "1.11.5",
+    "axios": "^0.21.1",
+    "element-ui": "^2.14.1"
+  }
+}
