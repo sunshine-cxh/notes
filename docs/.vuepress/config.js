@@ -1,5 +1,6 @@
 const path = require('path')
 module.exports = {
+  base: '/notes/',
   title: '小惠喜欢常富',
   description: 'zcflovecxh',
   // 主题配置
